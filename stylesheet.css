@@ -69,3 +69,6 @@ html body {
   font-size: 16pt;
 }
 
+.content__items a:hover {
+  text-decoration: underline;
+}
